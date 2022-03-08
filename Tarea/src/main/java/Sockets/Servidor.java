@@ -61,8 +61,8 @@ public class Servidor extends Observable implements Runnable{
                     sc.close();
                     System.out.println("Cliente desconectado");
                 }
-                catch (IOException ex) {
-                    Logger.getLogger(Servidor.class.getName()).log(Level.SEVERE, null, ex);
+            catch (IOException ex) {
+                Logger.getLogger(Servidor.class.getName()).log(Level.SEVERE, null, ex);
                 }
     }
     

@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+ 
 package Sockets;
 
 import java.io.DataOutputStream;
@@ -42,8 +39,8 @@ public class Cliente implements Runnable {
 
             sc.close();
 
-        } catch (IOException e) {
-            Logger.getLogger(Cliente.class.getName()).log(Level.SEVERE, null, e);
+        } catch (IOException ex) {
+            Logger.getLogger(Cliente.class.getName()).log(Level.SEVERE, null, ex);
         }
 
     }

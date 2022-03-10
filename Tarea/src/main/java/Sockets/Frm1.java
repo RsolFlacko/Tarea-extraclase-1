@@ -6,8 +6,8 @@ import java.util.Observer;
 
 
 /**
- *
- * @author pc
+ * Frm1 representa la primera ventana o frame y se coloca como observador
+ * @author Roger Solano
  */
 public class Frm1 extends javax.swing.JFrame implements Observer{
 
@@ -18,7 +18,7 @@ public class Frm1 extends javax.swing.JFrame implements Observer{
         initComponents();
         
         this.getRootPane().setDefaultButton(this.btnEnviar);
-        Servidor s = new Servidor(5000);
+        Servidor s = new Servidor(6000);
         s.addObserver(this);
         Thread t = new Thread(s);
         t.start();
@@ -73,7 +73,7 @@ public class Frm1 extends javax.swing.JFrame implements Observer{
   
         String mensaje = "1: " + this.txtTextoEnviar.getText() + "\n";
         this.txtTexto.append(mensaje);
-        Cliente c = new Cliente(6000, mensaje);
+        Cliente c = new Cliente(5000, mensaje);
         Thread t = new Thread(c);
         t.start();
     }//GEN-LAST:event_btnEnviarActionPerformed

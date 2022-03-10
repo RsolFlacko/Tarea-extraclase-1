@@ -1,0 +1,48 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/pc/OneDrive/Documentos/NetBeansProjects/Tarea/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/pc/OneDrive/Documentos/NetBeansProjects/Tarea/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Tarea 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Tarea 1.0-SNAPSHOT API'
+Sockets
+'C:/Users/pc/OneDrive/Documentos/NetBeansProjects/Tarea/src/main/java/Sockets/Cliente.java'
+'C:/Users/pc/OneDrive/Documentos/NetBeansProjects/Tarea/src/main/java/Sockets/Frm1.java'
+'C:/Users/pc/OneDrive/Documentos/NetBeansProjects/Tarea/src/main/java/Sockets/Frm2.java'
+'C:/Users/pc/OneDrive/Documentos/NetBeansProjects/Tarea/src/main/java/Sockets/Servidor.java'
+C:\Users\pc\OneDrive\Documentos\NetBeansProjects\Tarea\src\main\java = 1646288395719
+C:\Users\pc\OneDrive\Documentos\NetBeansProjects\Tarea\target\site\apidocs\allclasses-index.html = 1646891729161
+C:\Users\pc\OneDrive\Documentos\NetBeansProjects\Tarea\target\site\apidocs\allpackages-index.html = 1646891729175
+C:\Users\pc\OneDrive\Documentos\NetBeansProjects\Tarea\target\site\apidocs\element-list = 1646891728767
+C:\Users\pc\OneDrive\Documentos\NetBeansProjects\Tarea\target\site\apidocs\help-doc.html = 1646891729311
+C:\Users\pc\OneDrive\Documentos\NetBeansProjects\Tarea\target\site\apidocs\index-all.html = 1646891729261
+C:\Users\pc\OneDrive\Documentos\NetBeansProjects\Tarea\target\site\apidocs\index.html = 1646891729266
+C:\Users\pc\OneDrive\Documentos\NetBeansProjects\Tarea\target\site\apidocs\jquery-ui.overrides.css = 1646891729516
+C:\Users\pc\OneDrive\Documentos\NetBeansProjects\Tarea\target\site\apidocs\member-search-index.js = 1646891729199
+C:\Users\pc\OneDrive\Documentos\NetBeansProjects\Tarea\target\site\apidocs\module-search-index.js = 1646891729177
+C:\Users\pc\OneDrive\Documentos\NetBeansProjects\Tarea\target\site\apidocs\overview-tree.html = 1646891729100
+C:\Users\pc\OneDrive\Documentos\NetBeansProjects\Tarea\target\site\apidocs\package-search-index.js = 1646891729186
+C:\Users\pc\OneDrive\Documentos\NetBeansProjects\Tarea\target\site\apidocs\script.js = 1646891729333
+C:\Users\pc\OneDrive\Documentos\NetBeansProjects\Tarea\target\site\apidocs\search.js = 1646891729361
+C:\Users\pc\OneDrive\Documentos\NetBeansProjects\Tarea\target\site\apidocs\serialized-form.html = 1646891728962
+C:\Users\pc\OneDrive\Documentos\NetBeansProjects\Tarea\target\site\apidocs\stylesheet.css = 1646891729330
+C:\Users\pc\OneDrive\Documentos\NetBeansProjects\Tarea\target\site\apidocs\tag-search-index.js = 1646891729201
+C:\Users\pc\OneDrive\Documentos\NetBeansProjects\Tarea\target\site\apidocs\type-search-index.js = 1646891729193

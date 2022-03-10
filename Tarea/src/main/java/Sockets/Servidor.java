@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package Sockets;
 
 import java.io.DataInputStream;
@@ -14,13 +11,16 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- *
- * @author pc
+ * Servidor representa al servidor del socket el cual es observable y un hilo
+ * @author Roger Solano
  */
 public class Servidor extends Observable implements Runnable{
     
     private int puerto;
-
+/**
+ * Crea un puerto para el servidor
+ * @param puerto puerto
+ */
     public Servidor(int puerto){
         this.puerto = puerto;
     }
